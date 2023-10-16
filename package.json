@@ -1,0 +1,12 @@
+{
+  "name": "workflow-module-1",
+  "version": "0.0.1",
+  "description": "This repository is for a Noroff Git Tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
